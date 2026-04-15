@@ -3,3 +3,6 @@ resources
 .hugo_build.lock
 .DS_Store
 assets/jsconfig.json
+
+git add -f .\public\img\avatar.png
+git add -f .\public\img\favicon.png
